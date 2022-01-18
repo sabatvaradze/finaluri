@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965590604707",
+    "project_id": "finalurigamocda",
+    "storage_bucket": "finalurigamocda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965590604707:android:02e7018eca175534fd5816",
+        "android_client_info": {
+          "package_name": "com.example.txt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965590604707-19nhbis7348hvga6jeqstbc96l3il5h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKdzJ1U3UzCDOhcVInx0w8kmrLH14vkQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965590604707-19nhbis7348hvga6jeqstbc96l3il5h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
